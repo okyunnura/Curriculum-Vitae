@@ -25,17 +25,17 @@
 ### フレームワーク
 
 - Java
- - Spring Framework
- - Hibernate
+  - Spring Framework
+  - Hibernate
 - Web
- - Angular
- - React
+  - Angular
+  - React
 - Mobile
- - Android
-  - RxJava1,2
- - iOS
-  - Alamofire
-  - Realm
+  - Android
+    - RxJava1,2
+  - iOS
+    - Alamofire
+    - Realm
 
 ### その他
 
