@@ -12,12 +12,15 @@
 
 ## スキル
 
-- TODO
-
 ### 言語
 
 - プログラミング言語
   - Java
+  - Objective-C
+  - Swift
+  - PHP
+  - Go
+  - VBA
 
 - 日本語
   - ネイティブ
@@ -32,7 +35,7 @@
   - React
 - Mobile
   - Android
-    - RxJava1,2
+    - RxJava
   - iOS
     - Alamofire
     - Realm
