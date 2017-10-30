@@ -15,11 +15,13 @@
 ### 言語
 
 - プログラミング言語
-  - Java
+  - Java 6~
+  - PHP 4,5
+  - Swift 1,2,3
   - Objective-C
-  - Swift
-  - PHP
   - VBA
+    - Access
+    - Excel
 
 - 日本語
   - ネイティブ
@@ -28,20 +30,68 @@
 
 - Java
   - Spring Framework
-  - Hibernate
+    - Boot
+    - MVC
+    - Web
+    - Security
+    - Data
+    - Hibernate
+    - Infinispan
+    - Thymeleaf
+  - Struts
+  - seasar2
 - Web
-  - Angular
+  - Angular 1~
   - React
+  - JQuery
+  - Bootstrap 3,4
+  - Semantic UI 2
 - Mobile
-  - Android
+  - Android 1.6~
+    - Dagger
     - RxJava
-  - iOS
+    - EventBus
+  - iOS 5.0~
     - Alamofire
     - Realm
 
 ### その他
 
-- TODO 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- OS
+  - macOS
+  - Windows
+  - Linux
+    - CentOS 5,6
+    - Ubuntu
+- Git
+  - Git-Flow
+  - SourceTree
+- AWS
+  - Elastic Beanstalk
+  - Lambda
+  - API Gateway
+  - SES
+  - RDS
+- DB
+  - MySQL
+  - PostgreSQL
+  - SQLite
+  - SQLServer
+  - MongoDB
+- DevTool
+  - JetBrains
+    - Intellij IDEA
+    - AppCode
+    - DataGrip
+    - WebStorm
+  - Atlassian
+    - JIRA
+    - Confluence
+    - Bitbucket
+    - Bamboo
+  - TextEdit
+    - SublimeText3
+    - Atom
 
 ## 強み
 
@@ -51,6 +101,8 @@
 
 - Goでの実務レベルでの開発
 - GCPをメインに使った開発
+- DDDを用いた開発
+- TDDを用いた開発
 
 ## 登壇歴
 |Date|Event|Slide|
