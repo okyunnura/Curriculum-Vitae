@@ -92,6 +92,8 @@
   - TextEdit
     - SublimeText3
     - Atom
+  - Other
+    - Docker
 
 ## 強み
 - モバイルからバックエンドまで幅広い開発経験
