@@ -46,6 +46,7 @@
   - JQuery
   - Bootstrap 3,4
   - Semantic UI 2
+  - Vue.js
 - Mobile
   - Android 1.6~
     - Dagger
@@ -63,6 +64,11 @@
   - Linux
     - CentOS 5,6
     - Ubuntu
+- Technology
+  - QR
+  - NFC
+  - BLE
+  - AES
 - Git
   - Git-Flow
   - SourceTree
