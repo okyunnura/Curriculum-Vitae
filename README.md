@@ -119,6 +119,10 @@
 |---|-----|-----|
 |2016/07/26|[JSUG勉強会 2016年その6](https://jsug.doorkeeper.jp/events/49140)|[Spring と SPA](https://speakerdeck.com/okyunnura/spring-to-spa-develop)|
 
+## 資格
+* 応用情報技術者 2011/04
+* 基本情報技術者 2007/10
+
 ## 職務経歴
 
 ### 2018/06 - : オープンロジ
