@@ -1,6 +1,4 @@
-# 職務経歴書
-
-## 基本情報
+# 基本情報
 
 |key|value|
 |---|-----|
@@ -10,23 +8,17 @@
 |Qiita|[okyunnura](http://qiita.com/okyunnura)|
 |Speakerdeck|[okyunnura](https://speakerdeck.com/okyunnura)|
 
-## スキル
+# スキル
 
-### 言語
+## 言語
 
 - プログラミング言語
-  - Java 6~
   - PHP 4,5,7.x
+  - Java 6~
   - Swift 1,2,3
   - Objective-C
-  - VBA
-    - Access
-    - Excel
 
-- 日本語
-  - ネイティブ
-
-### フレームワーク
+## フレームワーク
 
 - Java
   - Spring Framework
@@ -43,12 +35,12 @@
 - PHP
   - Laravel 5.x
 - Web
-  - Angular 1~
+  - Vue.js
   - React
   - JQuery
+  - Angular 1~
   - Bootstrap 3,4
   - Semantic UI 2
-  - Vue.js
 - Mobile
   - Android 1.6~
     - Dagger
@@ -58,7 +50,7 @@
     - Alamofire
     - Realm
 
-### その他
+## その他
 
 - OS
   - macOS
@@ -74,6 +66,7 @@
 - Git
   - Git-Flow
   - SourceTree
+  - GitKraken
 - AWS
   - Elastic Beanstalk
   - Lambda
@@ -98,44 +91,35 @@
     - Bitbucket
     - Bamboo
   - TextEdit
+    - VSCode
     - SublimeText3
     - Atom
   - Other
     - Docker
-
-## 強み
-- モバイルからバックエンドまで幅広い開発経験
-- 新しい技術や流行のトレンドを常にキャッチアップ->実際に試してみる->業務導入
-- 人に教えるのが得意
-- 技術に対する好き嫌いが少なく、まず触る
-
-## やったことはないが興味があるもの
-
-- GCPをメインに使った開発
-
-## 登壇歴
+    
+# 登壇歴
 |Date|Event|Slide|
 |---|-----|-----|
 |2016/07/26|[JSUG勉強会 2016年その6](https://jsug.doorkeeper.jp/events/49140)|[Spring と SPA](https://speakerdeck.com/okyunnura/spring-to-spa-develop)|
 
-## 資格
+# 資格
 * 応用情報技術者 2011/04
 * 基本情報技術者 2007/10
 
-## 職務経歴
+# 職務経歴
 
-### 2020/06 - : タノム
+## 2020/06 - : タノム
 
-### 2018/06 - 2020/05 : オープンロジ
+## 2018/06 - 2020/05 : オープンロジ
 Webエンジニアとしてオペレーション作業から開発まで担当しました。
 Laravel/Reactでフロントエンド開発を行っていました。
 
-### 2017/12 - 2018/05: フリーランス
+## 2017/12 - 2018/05: フリーランス
 
-### 2012/12 - 2017/11: タグバンガーズ
+## 2012/12 - 2017/11: タグバンガーズ
 Web、モバイル、環境構築など幅広い業務に参加しました。  
 モバイルではAndroid/iOS共にメインの技術者として担当しました。
 
-### 2009/04 - 2012/11: ピコ・ナレッジ
+## 2009/04 - 2012/11: ピコ・ナレッジ
 Webアプリケーションの作成やPOS連動の業務システムのメンテナンスなどを担当しました。  
 現場作業も多く経験し、ブレードサーバーの引っ越しやLAN配線工事なども経験しました。
